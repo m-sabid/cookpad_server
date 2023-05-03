@@ -5,6 +5,7 @@
     "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
     "bio": "Chef John is a British chef, restaurateur, and television personality. He has owned and operated a series of restaurants since he was 31, with 16 Michelin stars in total. Ramsay is known for presenting TV shows about competitive cookery and food, such as the British series Hell's Kitchen, The F Word, and Ramsay's Kitchen Nightmares, along with the American versions of Hell's Kitchen, Kitchen Nightmares, MasterChef, MasterChef Junior, and Hotel Hell.",
     "likes": 500,
+    "totalRecipes":"50",
     "recipes": [
       {
         "id": "1",
@@ -69,6 +70,7 @@
     "picture": "https://images.unsplash.com/photo-1583130879770-ebd1cadc5d47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
     "bio": "Chef Jane is a British chef and restaurateur. He is known for his approachable cuisine, which has led him to front numerous television shows and open many restaurants. Oliver's restaurants include Jamie's Italian, Chef Jane's Diner, and Barbecoa. He has written over 20 cookbooks and won several awards, including the 2010 TED Prize.",
     "likes": 300,
+    "totalRecipes":"30",
     "recipes": [
       {
         "id": "1",
@@ -136,6 +138,7 @@
     "picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "bio": "Chef Michael is an English food writer and television cook. She is best known for her love of home cooking and comfort food. She has written numerous cookbooks and hosted several television shows, including Nigella Bites and Nigellissima. In addition to her work in the food industry, Lawson is also a journalist and a judge on the reality show The Taste.",
     "likes": 800,
+    "totalRecipes":"80",
     "recipes": [
       {
         "id": "1",
@@ -199,6 +202,7 @@
     "picture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "bio": "Chef Sarah is a British chef, restaurateur, writer, and television personality. He has owned and operated a number of highly acclaimed restaurants around the world, and has starred in several television shows, including Hell's Kitchen, MasterChef, and Kitchen Nightmares. Ramsay is known for his no-nonsense approach to cooking and his high standards for quality and flavor.",
     "likes": 50000,
+    "totalRecipes":"20",
     "recipes": [
       {
         "id": "1",
@@ -269,6 +273,7 @@
     "picture": "https://media.istockphoto.com/id/690840558/photo/confident-female-chef-holding-cooked-food-in-kitchen.jpg?s=170667a&w=0&k=20&c=sBgbn-XP4jBp2ryn2u4ZOGFhE9idVkxv5VNLiTD-zhs=",
     "bio": "Chef David is a British chef and television personality. He is known for his focus on healthy, fresh ingredients and his efforts to improve the quality of school meals in the UK. Oliver has written numerous cookbooks and hosted several television shows, including The Naked Chef, Jamie's Kitchen, and Chef David's Food Revolution. In addition to his work in the food industry, he is also an advocate for various social and environmental causes.",
     "likes": 700,
+    "totalRecipes":"70",
     "recipes": [
       {
         "id": "1",
@@ -331,6 +336,7 @@
     "picture": "https://images.unsplash.com/photo-1592498546551-222538011a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "bio": "Chef David is a British chef and television personality. He is known for his focus on healthy, fresh ingredients and his efforts to improve the quality of school meals in the UK. Oliver has written numerous cookbooks and hosted several television shows, including The Naked Chef, Jamie's Kitchen, and Chef David's Food Revolution. In addition to his work in the food industry, he is also an advocate for various social and environmental causes.",
     "likes": 400,
+    "totalRecipes":"40",
     "recipes": [
       {
         "id": "1",
