@@ -7,11 +7,11 @@ const app = express();
 app.use(cors());
 
 app.get("/api/chefs", (req, res) => {
-  res.send(chefsData);
+  res.json(chefsData);
 });
 
 app.get("/api/recipes", (req, res) => {
-  res.send(recipesData);
+  res.json(recipesData);
 });
 
 // Start the server
