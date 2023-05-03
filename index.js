@@ -14,6 +14,13 @@ app.get("/api/recipes", (req, res) => {
   res.send(recipesData);
 });
 
+app.get("/api/recipes/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedRecipes = recipesData.find(n=>n.id === id);
+
+  res.send(selectedRecipes);
+});
+
 // Start the server
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
