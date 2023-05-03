@@ -4,7 +4,12 @@ const chefsData = require('./data/chefs.json');
 const app = express();
 
 // Define a route to serve the chefs data
+app.get('/', (req, res) => {
+res.send("i am sabid")
+}
+
 app.get('/api/chefs', (req, res) => {
+  res.send("kuttar baccga")
   res.json(chefsData);
 });
 
