@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Chef John",
+    "experience": 10,
+    "recipes": 50,
+    "likes": 500,
+    "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Chef Jane",
+    "experience": 7,
+    "recipes": 30,
+    "likes": 300,
+    "picture": "https://images.unsplash.com/photo-1583130879770-ebd1cadc5d47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Chef Michael",
+    "experience": 15,
+    "recipes": 80,
+    "likes": 800,
+    "picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Chef Sarah",
+    "experience": 5,
+    "recipes": 20,
+    "likes": 200,
+    "picture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 5,
+    "name": "Chef David",
+    "experience": 12,
+    "recipes": 70,
+    "likes": 700,
+    "picture": "https://media.istockphoto.com/id/690840558/photo/confident-female-chef-holding-cooked-food-in-kitchen.jpg?s=170667a&w=0&k=20&c=sBgbn-XP4jBp2ryn2u4ZOGFhE9idVkxv5VNLiTD-zhs="
+  },
+  {
+    "id": 6,
+    "name": "Chef Anna",
+    "experience": 8,
+    "recipes": 40,
+    "likes": 400,
+    "picture": "https://images.unsplash.com/photo-1592498546551-222538011a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  }
+]
